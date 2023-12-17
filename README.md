@@ -26,7 +26,7 @@ This project focuses on recognizing Indian Sign Language (ISL) gestures using Co
 
 4. **Train the Model:**
    ```bash
-   python train_model.py
+   python train.py
    ```
 
 5. **Run Real-Time Recognition:**
